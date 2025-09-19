@@ -9,6 +9,7 @@ authors:
     orcid: 0000-0003-4413-0651
     affiliation: 1
   - name: Naoya Oec
+    orcid: 0000-0002-7491-4994
     affiliation: 2
   - name: Airu Hayashi
     affiliation: 1
