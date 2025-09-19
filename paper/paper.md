@@ -18,6 +18,7 @@ authors:
     orcid: 0009-0004-1731-7124
     affiliation: 1
   - name: Kotaro Uchida
+    orcid: 0009-0001-4596-5629
     affiliation: 1
   - name: Ryo Mameda
     orcid: 0009-0007-5830-6482
