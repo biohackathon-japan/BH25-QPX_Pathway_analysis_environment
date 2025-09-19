@@ -12,8 +12,10 @@ authors:
     orcid: 0000-0002-7491-4994
     affiliation: 2
   - name: Airu Hayashi
+    orcid: 0009-0009-5600-2658
     affiliation: 1
   - name: Chiharu Fujita
+    orcid: 0009-0004-1731-7124
     affiliation: 1
   - name: Kotaro Uchida
     affiliation: 1
