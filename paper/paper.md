@@ -18,6 +18,7 @@ authors:
   - name: Kotaro Uchida
     affiliation: 1
   - name: Ryo Mameda
+    orcid: 0009-0007-5830-6482
     affiliation: 1
   - name: Sora Yonezawa
     orcid: 0009-0004-1874-3117
