@@ -1,20 +1,34 @@
 ---
-title: 'DBCLS BioHackathon 2025 report: Template for the very long title'
-title_short: 'BioHackJP25: How we found breakfast'
+title: 'QPX: Pathway analysis environment'
+title_short: 'QPX'
 tags:
-  - Semantic web
-  - Ontologies
-  - Workflows
+  - Pathway analysis
+  - 
 authors:
-  - name: First Author
+  - name: Hidemasa Bono
+    orcid: 0000-0003-4413-0651
     affiliation: 1
-  - name: Last Author
-    orcid: 0000-0000-0000-0000
+  - name: Naoya Oec
     affiliation: 2
+  - name: Airu Hayashi
+    affiliation: 1
+  - name: Chiharu Fujita
+    affiliation: 1
+  - name: Kotaro Uchida
+    affiliation: 1
+  - name: Sora Yonezawa
+    orcid: 0009-0004-1874-3117
+    affiliation: 1
+  - name: Kazuki Nakamae
+    orcid: 0000-0002-4469-664X
+    affiliation: 1
+  - name: Ryo Nozu
+    orcid: 0000-0002-1099-3152
+    affiliation: 1
 affiliations:
-  - name: First Affiliation
+  - name: Hiroshima University
     index: 1
-  - name: ELIXIR Europe
+  - name: Dogrun Inc.
     ror: 044rwnt51
     index: 2
 date: 15 September 2025
@@ -23,9 +37,9 @@ event: BH25JP
 biohackathon_name: "DBCLS BioHackathon 2025"
 biohackathon_url:   "https://2025.biohackathon.org/"
 biohackathon_location: "Mie, Japan, 2025"
-group: YOUR-PROJECT-NAME-GOES-HERE
+group: QPX: Pathway analysis environment
 # URL to project git repo --- should contain the actual paper.md:
-git_url: https://github.com/biohackathon-japan/bh25-bhxiv-template
+git_url: https://github.com/biohackathon-japan/BH25-QPX_Pathway_analysis_environment
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
 authors_short: First Author \emph{et al.}
