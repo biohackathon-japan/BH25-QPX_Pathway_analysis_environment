@@ -29,7 +29,6 @@ affiliations:
   - name: Hiroshima University
     index: 1
   - name: Dogrun Inc.
-    ror: 044rwnt51
     index: 2
 date: 15 September 2025
 cito-bibliography: paper.bib
@@ -37,7 +36,7 @@ event: BH25JP
 biohackathon_name: "DBCLS BioHackathon 2025"
 biohackathon_url:   "https://2025.biohackathon.org/"
 biohackathon_location: "Mie, Japan, 2025"
-group: QPX: Pathway analysis environment
+group: "QPX: Pathway analysis environment"
 # URL to project git repo --- should contain the actual paper.md:
 git_url: https://github.com/biohackathon-japan/BH25-QPX_Pathway_analysis_environment
 # This is the short authors description that is used at the
