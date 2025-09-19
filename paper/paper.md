@@ -48,7 +48,7 @@ authors_short: First Author \emph{et al.}
 
 # Introduction
 
-As part of the DBCLS BioHackathon 2025, we here report...
+Building on our work at BioHackathon 2023, where we introduced QPX and promoted pathway modeling with WikiPathways (Pico et al., 2008) using PathVisio (Kutmon et al., 2015), we now focused on creating new pathway diagrams for diverse species and registering them in WikiPathways with functional annotations. In parallel, we deployed WikiPathways node data into Elasticsearch to enable fast and flexible search and integration of pathway information.
 
 ## Author information
 
