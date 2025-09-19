@@ -31,6 +31,7 @@ authors:
     affiliation: 1
 affiliations:
   - name: Hiroshima University
+    ror: 03t78wx29
     index: 1
   - name: Dogrun Inc.
     index: 2
